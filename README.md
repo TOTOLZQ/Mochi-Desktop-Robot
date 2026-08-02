@@ -35,6 +35,8 @@ Mochi 是一只住在 M5Stack StackChan 身体里的桌面团子精。
 - StackChan 官方机身（K151）
 - 串口反馈舵机 × 2
 
+![M5Stack](./assets/m5stack-logo.jpg)
+
 ### 快速开始
 
 1. Arduino IDE 安装 `M5StackChan` 库及其依赖。
@@ -93,6 +95,8 @@ This project is designed for the **official M5Stack StackChan (K151 / CoreS3)**,
 - M5Stack CoreS3
 - Official StackChan body (K151)
 - 2 serial feedback servos
+
+![M5Stack](./assets/m5stack-logo.jpg)
 
 ### Quick Start
 
