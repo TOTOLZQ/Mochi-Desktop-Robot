@@ -3,6 +3,7 @@
 [English](#english) | [中文](#中文)
 
 [![GitHub](https://img.shields.io/badge/GitHub-TOTOLZQ%2FMochi--Desktop--Robot-blue?logo=github)](https://github.com/TOTOLZQ/Mochi-Desktop-Robot)
+[![Release](https://img.shields.io/github/v/release/TOTOLZQ/Mochi-Desktop-Robot?include_prereleases&style=for-the-badge)](https://github.com/TOTOLZQ/Mochi-Desktop-Robot/releases)
 
 ```bash
 git clone https://github.com/TOTOLZQ/Mochi-Desktop-Robot.git
