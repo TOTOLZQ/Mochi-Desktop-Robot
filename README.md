@@ -4,7 +4,7 @@
 
 # Mochi Desktop Robot
 
-**一只住在 M5Stack StackChan 身体里的桌面团子精**
+**一只住在 M5Stack StackChan 身体里的桌面小精灵**
 
 *A desktop mochi spirit living inside an M5Stack StackChan body*
 
@@ -44,7 +44,7 @@ git clone https://github.com/TOTOLZQ/Mochi-Desktop-Robot.git
 
 ### 简介
 
-> Mochi 是一只住在 M5Stack StackChan 身体里的桌面团子精。
+> Mochi 是一只住在 M5Stack StackChan 身体里的桌面小精灵。
 
 她不是普通的电子宠物，而是有 **饥饿、精力、快乐和亲密度** 四项需求、会记仇也会撒娇的 AI 桌面伙伴。你戳她她会脸红，不喂她她会饿到发脾气，连续陪伴她还会解锁更粘人的状态。
 
