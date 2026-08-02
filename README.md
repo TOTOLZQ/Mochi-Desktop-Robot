@@ -1,6 +1,8 @@
+<a id="top"></a>
+
 <div align="center">
 
-# 🍡 Mochi Desktop Robot
+# Mochi Desktop Robot
 
 **一只住在 M5Stack StackChan 身体里的桌面团子精**
 *A desktop mochi spirit living inside an M5Stack StackChan body*
@@ -39,7 +41,7 @@ git clone https://github.com/TOTOLZQ/Mochi-Desktop-Robot.git
 
 ## 中文
 
-### 📖 简介
+### 简介
 
 > Mochi 是一只住在 M5Stack StackChan 身体里的桌面团子精。
 
@@ -47,64 +49,62 @@ git clone https://github.com/TOTOLZQ/Mochi-Desktop-Robot.git
 
 这个项目专为 **M5Stack 官方 StackChan（K151 / CoreS3）** 设计，使用官方 `M5StackChan` BSP 库驱动屏幕、串口舵机和两区的触摸感应。
 
-### ✨ 特点
+### 特点
 
-| | 特性 |
-|:---:|---|
-| 🎭 | **9 种表情状态**：neutral / happy / sad / sleepy / hungry / squished / dreaming / angry / surprised |
-| 📉 | **四项需求随时间衰减**，真实养成感 |
-| 👆 | **两区触摸交互**：前脸抚摸、触摸板喂食 |
-| 🤖 | **情绪驱动头部动作**，开心时抬头、难过时低头 |
-| 🧩 | **代码结构清晰**，方便接入语音对话或大模型 |
+- **9 种表情状态**：neutral / happy / sad / sleepy / hungry / squished / dreaming / angry / surprised
+- **四项需求随时间衰减**，真实养成感
+- **两区触摸交互**：前脸抚摸、触摸板喂食
+- **情绪驱动头部动作**，开心时抬头、难过时低头
+- **代码结构清晰**，方便接入语音对话或大模型
 
-### 🔧 硬件
+### 硬件
 
-- **M5Stack CoreS3**
-- **StackChan 官方机身**（K151）
-- **串口反馈舵机** × 2
+- M5Stack CoreS3
+- StackChan 官方机身（K151）
+- 串口反馈舵机 × 2
 
-### 🚀 快速开始
+### 快速开始
 
 1. Arduino IDE 安装 `M5StackChan` 库及其依赖
 2. 开发板选择 `M5CoreS3`
 3. 打开 `mochi-stackchan-official.ino`，编译上传
 4. 按住机身复位键 2 秒进入下载模式，然后点击上传
 
-> 📌 详细步骤见项目内 `setup-official-arduino-cli.sh`
+> 详细步骤见项目内 `setup-official-arduino-cli.sh`
 
-### 🎮 操作方式
+### 操作方式
 
 | 触摸区域 | 动作 |
 |:---:|---|
-| 🖐️ 前面（Front） | 抚摸，增加快乐和亲密度 |
-| 🍚 触摸板（Touch Pad） | 喂食，减少饥饿 |
+| 前面（Front） | 抚摸，增加快乐和亲密度 |
+| 触摸板（Touch Pad） | 喂食，减少饥饿 |
 
-> ⏳ 长时间不互动，Mochi 会进入睡眠或情绪低落
+长时间不互动，Mochi 会进入睡眠或情绪低落。
 
-### 📋 待办 / 扩展
+### 待办 / 扩展
 
 - [ ] 接入语音唤醒和豆包 / ChatGPT 对话
 - [ ] 接入摄像头做视觉跟随
 - [ ] 接入 RGB 灯带做情绪氛围光
 
-### 🙏 致谢
+### 致谢
 
 基于 M5Stack 官方 StackChan BSP 与 StackChan 社区项目。
 
-### 📮 合作
+### 合作
 
 | 渠道 | 联系方式 |
 |:---:|---|
 | 微信 | `18943990291` |
 | 小红书 | `18167114105` |
 
-<p align="right"><a href="#top">⬆ 返回顶部</a></p>
+<p align="right"><a href="#top">返回顶部</a></p>
 
 ---
 
 ## English
 
-### 📖 Introduction
+### Introduction
 
 > Mochi is a desktop mochi spirit living inside an M5Stack StackChan body.
 
@@ -112,55 +112,53 @@ She is not just another cute robot face. Mochi has **four needs** that decay ove
 
 This project is designed for the **official M5Stack StackChan (K151 / CoreS3)**, using the official `M5StackChan` BSP library to drive the display, serial servos, and two-zone touch sensor.
 
-### ✨ Features
+### Features
 
-| | Feature |
-|:---:|---|
-| 🎭 | **9 expressions**: neutral, happy, sad, sleepy, hungry, squished, dreaming, angry, surprised |
-| 📉 | **Four decaying needs** for real tamagotchi-style care |
-| 👆 | **Two-zone touch interaction**: front for petting, touch pad for feeding |
-| 🤖 | **Emotion-driven head motion**: looks up when happy, down when sad |
-| 🧩 | **Clean code structure**, ready for voice or LLM integration |
+- **9 expressions**: neutral, happy, sad, sleepy, hungry, squished, dreaming, angry, surprised
+- **Four decaying needs** for real tamagotchi-style care
+- **Two-zone touch interaction**: front for petting, touch pad for feeding
+- **Emotion-driven head motion**: looks up when happy, down when sad
+- **Clean code structure**, ready for voice or LLM integration
 
-### 🔧 Hardware
+### Hardware
 
-- **M5Stack CoreS3**
-- **Official StackChan body** (K151)
-- **2 serial feedback servos**
+- M5Stack CoreS3
+- Official StackChan body (K151)
+- 2 serial feedback servos
 
-### 🚀 Quick Start
+### Quick Start
 
 1. Install the `M5StackChan` library and its dependencies in Arduino IDE
 2. Select `M5CoreS3` as the board
 3. Open `mochi-stackchan-official.ino` and upload
 4. Hold the reset button for 2 seconds to enter download mode, then upload
 
-> 📌 For detailed setup, see `setup-official-arduino-cli.sh` in this folder
+> For detailed setup, see `setup-official-arduino-cli.sh` in this folder
 
-### 🎮 Controls
+### Controls
 
 | Touch Zone | Action |
 |:---:|---|
-| 🖐️ Front | Pet Mochi, increases happiness and affection |
-| 🍚 Touch Pad | Feed Mochi, reduces hunger |
+| Front | Pet Mochi, increases happiness and affection |
+| Touch Pad | Feed Mochi, reduces hunger |
 
-> ⏳ If left alone too long, Mochi falls asleep or gets moody
+If left alone too long, Mochi falls asleep or gets moody.
 
-### 📋 TODO / Extensions
+### TODO / Extensions
 
 - [ ] Voice wake-word and Doubao / ChatGPT conversation
 - [ ] Camera-based visual tracking
 - [ ] RGB mood lighting
 
-### 🙏 Acknowledgements
+### Acknowledgements
 
 Built on the M5Stack official StackChan BSP and the StackChan community project.
 
-### 📮 Contact
+### Contact
 
 | Channel | Info |
 |:---:|---|
 | WeChat | `18943990291` |
 | Rednote | `18167114105` |
 
-<p align="right"><a href="#top">⬆ Back to top</a></p>
+<p align="right"><a href="#top">Back to top</a></p>
