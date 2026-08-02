@@ -100,7 +100,7 @@ git clone https://github.com/TOTOLZQ/Mochi-Desktop-Robot.git
 | 微信 | `18943990291` |
 | 小红书 | `18167114105` |
 
-<p align="right"><a href="#top"><img src="https://img.shields.io/badge/返回顶部-⬆-blue?style=flat-square" alt="返回顶部" /></a></p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/badge/返回顶部-↑-blue?style=flat-square" alt="返回顶部" /></a></p>
 
 ---
 
@@ -163,4 +163,4 @@ Built on the M5Stack official StackChan BSP and the StackChan community project.
 | WeChat | `18943990291` |
 | Rednote | `18167114105` |
 
-<p align="right"><a href="#top"><img src="https://img.shields.io/badge/Back_to_top-⬆-blue?style=flat-square" alt="Back to top" /></a></p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/badge/Back_to_top-↑-blue?style=flat-square" alt="Back to top" /></a></p>
