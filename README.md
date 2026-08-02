@@ -16,7 +16,7 @@ git clone https://github.com/TOTOLZQ/Mochi-Desktop-Robot.git
 
 Mochi 是一只住在 M5Stack StackChan 身体里的桌面团子精。
 
-她不是普通的电子宠物，而是有饥饿、精力、快乐和亲密度四项需求、会记仇也会撒娇的 AI 桌面伙伴。你戳她她会脸红，不喂她她会饿到摆臭脸，连续陪伴她还会解锁更粘人的状态。
+她不是普通的电子宠物，而是有饥饿、精力、快乐和亲密度四项需求、会记仇也会撒娇的 AI 桌面伙伴。你戳她她会脸红，不喂她她会饿到发脾气，连续陪伴她还会解锁更粘人的状态。
 
 这个项目专为 **M5Stack 官方 StackChan（K151 / CoreS3）** 设计，使用官方 `M5StackChan` BSP 库驱动屏幕、串口舵机和两区的触摸感应。
 
