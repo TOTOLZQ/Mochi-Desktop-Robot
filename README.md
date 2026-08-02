@@ -62,6 +62,11 @@ Mochi 是一只住在 M5Stack StackChan 身体里的桌面团子精。
 
 基于 M5Stack 官方 StackChan BSP 与 StackChan 社区项目。
 
+### 合作
+
+- 微信：18943990291
+- 小红书：18167114105
+
 ---
 
 ## English
@@ -115,3 +120,8 @@ If left alone too long, Mochi falls asleep or gets moody.
 ### Acknowledgements
 
 Built on the M5Stack official StackChan BSP and the StackChan community project.
+
+### Contact
+
+- WeChat: 18943990291
+- Xiaohongshu (RED): 18167114105
