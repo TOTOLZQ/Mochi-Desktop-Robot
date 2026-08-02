@@ -25,7 +25,8 @@
 </div>
 
 <p align="center">
-  <a href="#中文">中文</a> · <a href="#english">English</a>
+  <a href="#中文"><img src="https://img.shields.io/badge/中文-简介-red?style=flat-square" alt="中文" /></a>
+  <a href="#english"><img src="https://img.shields.io/badge/English-Docs-blue?style=flat-square" alt="English" /></a>
 </p>
 
 ---
