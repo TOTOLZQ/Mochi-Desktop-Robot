@@ -124,4 +124,4 @@ Built on the M5Stack official StackChan BSP and the StackChan community project.
 ### Contact
 
 - WeChat: 18943990291
-- Xiaohongshu (RED): 18167114105
+- Rednote: 18167114105
